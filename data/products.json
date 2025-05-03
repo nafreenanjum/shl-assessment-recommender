@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "Cognitive Ability Test",
+      "category": "Cognitive",
+      "skills": ["Logical Reasoning", "Problem Solving"],
+      "difficulty": "Medium",
+      "duration": "30 minutes"
+    },
+    {
+      "id": 2,
+      "name": "Situational Judgment Test",
+      "category": "Behavioral",
+      "skills": ["Decision Making", "Interpersonal Skills"],
+      "difficulty": "Easy",
+      "duration": "20 minutes"
+    },
+    {
+      "id": 3,
+      "name": "Personality Assessment",
+      "category": "Personality",
+      "skills": ["Self-Awareness", "Emotional Intelligence"],
+      "difficulty": "Easy",
+      "duration": "15 minutes"
+    }
+  ]
+  
